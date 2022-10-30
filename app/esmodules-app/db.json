@@ -1,0 +1,21 @@
+{
+  "todos": [
+    {
+      "title": "Learn Js",
+      "isComplete": false,
+      "id": 1
+    },
+    {
+      "title": "Learn Ts",
+      "isComplete": false,
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "title": "Learn Angular",
+      "isComplete": false,
+      "id": 3
+    }
+  ]
+}
